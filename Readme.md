@@ -1,4 +1,5 @@
 ![Our Logo](https://github.com/ecumenic/human-campus/blob/master/Human%20Campus%20Logo.png)
+
 https://humancampus.neocities.org
 https://github.com/ecumenic/human-campus
 
