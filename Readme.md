@@ -1,4 +1,4 @@
-![Our Logo](https://github.com/ecumenic/campus-forum/blob/master/Human%20Forum%20Logo.png)
+![Our Logo](https://github.com/ecumenic/campus-forum/blob/master/Campus%20Forum%20Logo.png)
 
 https://campusforum.neocities.org
 
